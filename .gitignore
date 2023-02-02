@@ -8,3 +8,4 @@
 # Portable App Directory
 *Portable/
 PortableApps/
+!UnityPortable/
